@@ -7,7 +7,7 @@ public class FXGFXImporter : ScriptedImporter
 {
 
 
-    //color format: AARRGGBB?
+    //color format: TODO
     private uint[] PALETTE = {
                 0xFF000000, 0xFF111111, 0xFF222222, 0xFF333333,
 
